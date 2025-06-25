@@ -19,7 +19,7 @@ This project showcases an AI that learns to drive a car in a 2D environment usin
 
 Here is an image of what it looks like :
 
-![Image_cars](Images/Capture d’écran 2025-06-25 163702.png)
+![Image_cars](Images/Img_car_start.png)
 
 There is sevral cars for a generation and we select the best. (Grays had hit a wall, reds are normal and the green is the best of this generation)
 
@@ -31,6 +31,6 @@ There is sevral cars for a generation and we select the best. (Grays had hit a w
 # 📝 Notes & Observations
 ⏳ Like any evolutionary approach, early generations perform terribly — driving in circles or crashing instantly — but over time, the network learns basic control and navigation.
 
-![Image_cars](Images/Capture d’écran 2025-06-25 163945.png)
+![Image_cars](Images/Img_car_best_path.png)
 
 Here, we can see that over 13 generations, the best path have been found (in less than 5 min). So, it is really quick !
