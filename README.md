@@ -25,9 +25,9 @@ Here is an image of what it looks like :
 There is sevral cars for a generation and we select the best. (Grays had hit a wall, reds are normal and the green is the best of this generation)
 
 # 📦 Dependencies
-  Python 3.x 🐍
-  any lib : this time, I don't use neat-python for neuroevolution
-  pygame for visualization 🎮
+  - Python 3.x 🐍
+  - any lib : this time, I don't use neat-python for neuroevolution
+  - Pygame for visualization 🎮
 
 # 📝 Notes & Observations
 ⏳ Like any evolutionary approach, early generations perform terribly — driving in circles or crashing instantly — but over time, the network learns basic control and navigation.
