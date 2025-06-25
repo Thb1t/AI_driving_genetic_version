@@ -1,14 +1,13 @@
-#🚗 Driving AI with NEAT (NeuroEvolution)
+# 🚗 Driving AI with NEAT (NeuroEvolution)
 This project showcases an AI that learns to drive a car in a 2D environment using the NEAT algorithm (NeuroEvolution of Augmenting Topologies). No hardcoded pathfinding — the agent evolves behaviors through generations, mutation, and selection. 🧬
 
-#🧠 What It Does
+# 🧠 What It Does
 🎮 The AI controls a car in a simple 2D driving simulation with checkpoints built with Pygame.
 
 🧬 It learns using NEAT: networks are evaluated based on how far and how safely they drive.
 
 👁️ A visual interface displays the car in action as it learns and improves over generations.
 
-#🚀 Features
 # 🚀 Features
   🔄 No supervised learning – only evolution by fitness
 
@@ -27,7 +26,7 @@ There is sevral cars for a generation and we select the best. (Grays had hit a w
   any lib : this time, I don't use neat-python for neuroevolution
   pygame for visualization 🎮
 
-#📝 Notes & Observations
+# 📝 Notes & Observations
 ⏳ Like any evolutionary approach, early generations perform terribly — driving in circles or crashing instantly — but over time, the network learns basic control and navigation.
 
 ![Image_cars](Images/Capture d’écran 2025-06-25 163945.png)
