@@ -16,6 +16,7 @@ This project showcases an AI that learns to drive a car in a 2D environment usin
   📊 Real-time simulation with visualization
 
   🏆 Tracks best fitness, average scores, and generation progress
+  
 
 Here is an image of what it looks like :
 
